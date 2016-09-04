@@ -1,6 +1,6 @@
 250-300 word abstracts due January 31, 2017 ([submit here](https://goo.gl/forms/qVL3k1s2C9yWHPT33))  
 6,000-word essays due June 30, 2017  
-Full CFP here: [http://atp1.us/digital-labor-cfp](http://atp1.us/digital-labor-cfp)
+Full CFP here: [http://oncomouse.github.io/digital-labor-cfp](http://oncomouse.github.io/digital-labor-cfp)
 
 Recent attempts to rewrite dominant accounts of technological progress, including the annual Ada Lovelace Day and *Hidden Figures*—the upcoming film about African-American women’s achievements in NASA—have drawn attention to the unknown histories lurking behind our digital present. This edited collection will not only continue to uncover such occluded histories, but also will interrogate our definitions of and assumptions about labor, effort, merit, and reward structures as they relate to new digital conditions of work. Who does the labor, what kind of labor is it, and what were the conditions of that labor? How was that labor attributed (or not), compensated (or not), rewarded (or not), and remembered (or not)?
 
