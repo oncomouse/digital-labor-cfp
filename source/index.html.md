@@ -1,0 +1,15 @@
+250-300 word abstracts due January 31, 2017 ([submit here](https://goo.gl/forms/qVL3k1s2C9yWHPT33))  
+6,000-word essays due June 30, 2017  
+Full CFP here: [http://atp1.us/digital-labor-cfp](http://atp1.us/digital-labor-cfp)
+
+Recent attempts to rewrite dominant accounts of technological progress, including the annual Ada Lovelace Day and *Hidden Figures*—the upcoming film about African-American women’s achievements in NASA—have drawn attention to the unknown histories lurking behind our digital present. This edited collection will not only continue to uncover such occluded histories, but also will interrogate our definitions of and assumptions about labor, effort, merit, and reward structures as they relate to new digital conditions of work. Who does the labor, what kind of labor is it, and what were the conditions of that labor? How was that labor attributed (or not), compensated (or not), rewarded (or not), and remembered (or not)?
+
+Mythic visions of STEM history in the digital tend to reinscribe the great men narrative models of the past, but how do we imagine histories of the digital that tell stories closer to the actual work of making these myths? As McKenzie Wark asks in *Molecular Red*, “[W]hat in these times is labor? Can a concept of labor include scientific labor, reproductive labor, affective labor, precarious labor, even non-labor?” (120). As technological apparatuses come to constitute more and more of the scene of labor, how has this transition influenced our accounts of labor (and for better or worse)? 
+
+Submissions may draw from any historical period as long as a persuasive link is made to the specifically digital technologies we use today. Reconfiguring these narratives may involve exploring one of many sites of technological labor: the laboratory, the factory, the office, the library, the makerspace, the classroom, the personal computer, the living room, the garage. We welcome a variety of methods (such as oral history, close reading, archival work, quantitative analysis, ethnography, or material/visual cultural analysis) and disciplinary approaches from the humanities and social sciences. Papers whose style and content reaches across disciplines and audiences—rather than attempt to make very specific disciplinary interventions—are especially desirable. 
+
+What matters most is that each submission reconstructs a compelling narrative of occluded labor and allows *that narrative* to generate a new definition or approach to work in the digital age. We have already begun communicating with a prominent publisher and anticipate moving swiftly once full drafts are received.
+
+For inquiries, please email both Andrew Pilsch ([apilsch@tamu.edu](mailto:apilsch@tamu.edu)) and Shawna Ross  ([shawnaross@tamu.edu](mailto:shawnaross@tamu.edu)) or tweet ([@oncomouse](https://twitter.com/oncomouse) and [@ShawnaRoss](https://twitter.com/ShawnaRoss)).
+
+Submit 250-300 word abstracts, short bio, and contact information [via GoogleForms](https://goo.gl/forms/qVL3k1s2C9yWHPT33) by January 31, 2017. Authors can expect to hear back from the editors by the end of February 2017.
