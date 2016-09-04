@@ -32,4 +32,6 @@ end
 # Build-specific configuration
 configure :build do
 	set :http_prefix, config[:site_deploy_root]
+	activate :minify_javascript, inline: true
+	activate :minify_css, inline: true
 end
